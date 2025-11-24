@@ -1,4 +1,4 @@
-Projeto Final – Credit Scoring (Módulo 38 - EBAC)
+Projeto Final – Credit Scoring (Módulo 38-EBAC)
 
 ## Demonstração do App Streamlit
 
