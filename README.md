@@ -1,13 +1,15 @@
-Projeto Final – Credit Scoring (Módulo 38-EBAC)
+Projeto Final – Credit Scoring 
 
 ## Demonstração do App Streamlit
 
-O print abaixo mostra o aplicativo de Credit Scoring (módulo 38) em funcionamento, com:
+O print abaixo mostra o aplicativo de Credit Scoring em funcionamento, incluindo:
 
-- upload do CSV
-- pré-processamento pelo pipeline
-- escoragem gerada pelo modelo `model_final.pkl`
-- output de `score_mau` e `classe_prevista`
+- Upload do CSV
+- Pré-processamento pelo pipeline
+- Escoragem com `model_final.pkl`
+- Coluna `score_mau` gerada corretamente
 
-[Demonstração do App](print_streamlit_credit_scoring.pdf)
+👉 **Clique aqui para ver o print:**  
+[📄 Abrir print do Streamlit](print_streamlit_credit_scoring.pdf)
+
 
