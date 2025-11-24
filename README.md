@@ -9,5 +9,5 @@ O print abaixo mostra o aplicativo de Credit Scoring (módulo 38) em funcionamen
 - escoragem gerada pelo modelo `model_final.pkl`
 - output de `score_mau` e `classe_prevista`
 
-![Demonstração do App](print_streamlit_credit_scoring.pdf)
+[Demonstração do App](print_streamlit_credit_scoring.pdf)
 
